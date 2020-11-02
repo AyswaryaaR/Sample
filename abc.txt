@@ -2,3 +2,5 @@ car
 mouse
 jar
 pillow
+orange
+strwaberry

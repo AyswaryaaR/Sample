@@ -1,2 +1,4 @@
 car
 mouse
+jar
+pillow
